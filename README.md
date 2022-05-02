@@ -8,3 +8,6 @@ Clone files and then run an http server.
 
 ## Roadmap to Future Improvements
 -improve styling
+
+## License
+MIT License
